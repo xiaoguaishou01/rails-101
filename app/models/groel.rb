@@ -1,0 +1,2 @@
+class Groel < ApplicationRecord
+end
